@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Pelota",
+        "description": "Pelota de goma",
+        "price": "$1000",
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_779158-MLA31086092270_062019-O.webp",
+        "code": "303",
+        "stock": "10",
+        "id": "0"
+    },
+    {
+        "title": "Reposera",
+        "description": "Reposera amarilla reclinable",
+        "price": "$1300",
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_624002-MLA52699803963_122022-W.jpg",
+        "code": "602",
+        "stock": "5",
+        "id": "1"
+    }
+]
